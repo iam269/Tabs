@@ -9,7 +9,7 @@ A sleek and interactive tabbed interface built with HTML, CSS, and JavaScript! E
 - **Lightweight**: Minimal code for fast loading ⚡
 
 ## Live Demo
-Check out the live version here: [https://iam269.github.io/Tabs/](https://iam269.github.io/Tabs/) 🌐
+Check out the live version here: [https://itsiamdev.github.io/Tabs/](https://itsiamdev.github.io/Tabs/) 🌐
 
 ## Technologies Used
 - HTML5 🏗️
